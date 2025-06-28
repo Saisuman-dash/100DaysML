@@ -32,7 +32,7 @@ print("3. Deposit money")
 print("4. Exit")
 option = int(input("Enter your choice: "))
 
-match choice:
+match option:
     case 1:
         print("Your current balance is: ", 1000)
     case 2:
