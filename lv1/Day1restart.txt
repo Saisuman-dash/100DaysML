@@ -1,0 +1,2 @@
+I learnt about supervised , unsupervised , semisupervised and Reinforcement learning . Then i got to know the difference in training methods, such as Batch learning VS Online learning . what are each one's disadvantages and how to handle if anything goes wrong in Online learning . How to implement the online learning thing and how does it actually work by learning and predicting both at a time .
+Current Date and Time are : 02-03-2026 / 09.36 AM
